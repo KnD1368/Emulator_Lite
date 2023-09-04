@@ -1,7 +1,7 @@
 <p>
 <img alt="Github Download" src="https://img.shields.io/github/downloads/KnD1368/Emulator_Lite/total.svg?style=for-the-badge"/>
 <img alt="Github Releases" src="https://img.shields.io/github/release/KnD1368/Emulator_Lite.svg?style=for-the-badge"/>
-<img alt="Github Releases" src="https://img.shields.io/gitlab/v/release/Emulator_Lite?style=for-the-badge&logo=github&label=Version"/>
+<img alt="Github Releases" src="https://img.shields.io/badge/VERSION-1.0.0-blue?style=for-the-badge"/>
 </p>
 
 
