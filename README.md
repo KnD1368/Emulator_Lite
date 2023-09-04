@@ -4,13 +4,13 @@
 <img alt="Github Releases" src="https://img.shields.io/github/release/KnD1368/Emulator_Lite.svg?style=for-the-badge"/>
 <img alt="Github Releases" src="https://img.shields.io/badge/VERSION-1.0.0-blue?style=for-the-badge"/>
 </p>
+<a href="https://www.youtube.com/channel/UCc600pWyN-sIDQX7AYcaTgQ?sub_confirmation=1">
+  <img alt="Youtube" src="https://img.shields.io/badge/Youtube-f20852?style=for-the-badge&logo=youtube&logoColor=white"
+    style="height: 41px !important;"/>
+</a>
 <a href="https://www.facebook.com/Ki3tNgu/">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
     style="height: 41px !important;"/>
-</a>
-<a href="https://www.youtube.com/channel/UCc600pWyN-sIDQX7AYcaTgQ?sub_confirmation=1">
-  <img alt="Youtube" src="https://img.shields.io/badge/Youtube-f20852?style=for-the-badge&logo=youtube&logoColor=white"
-    style="height: 41px !important;/>
 </a>
 <a href="https://github.com/KnD1368">
   <img alt="Github" src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white"
