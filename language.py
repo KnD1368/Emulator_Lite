@@ -1,2 +1,2 @@
-import noting
+import nothing
 print("python and c#")
