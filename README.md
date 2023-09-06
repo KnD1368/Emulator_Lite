@@ -41,9 +41,9 @@
 # **YÊU CẦU**
  - ### **Tuy có vẻ nó đã được tối ưu để nhằm mục đích phục vụ cho các hệ máy đời cũ, tuy nhiên nếu máy bạn không đáp ứng như cầu sau đây thì có thể bạn nên tìm giải pháp thay thế**
 ```
-Dung Lượng: 3GB > 5GB (hoặc hơn tùy phiên bản) 
+Dung Lượng: > 6GB ( hoặc hơn tùy phiên bản ) 
 Ram: 2GB HOẶC HƠN
-CPU: 2 Cores hoặc hơn(đề nghị 4 Cores, VT-X)
+CPU: 2 Cores hoặc hơn ( đề nghị 4 Cores, VT-X )
 GPU: Có hoặc không
 ```
     
@@ -65,7 +65,7 @@ GPU: Có hoặc không
 # **REQUIRE**
 - **While it may seem optimized to serve older generation machines, if your computer does not meet the following requirements, you may need to find an alternative solution.**
 ```
-Disk: available 3GB - 5GB or more
+Disk: available 6GB or more
 Ram: Minium 2GB
 CPU: Minium 2 Core ( 4 Core, support VT-x for best experience )
 GPU: No need
