@@ -43,7 +43,7 @@ GPU: Có hoặc không
 ```
     
 # **TẢI XUỐNG**
- - ### **[Emulator Lite (Patch & Install)]()**
+ - ### **[Emulator Lite (Patch & Install)](https://github.com/KnD1368/Emulator_Lite/releases/download/Emulator_Lite/Emulator_Lite.zip)**
 
 </details>
 
@@ -66,6 +66,6 @@ CPU: Minium 2 Core ( 4 Core, support VT-x for best experience )
 GPU: No need
 ```
 # **DOWNLOAD**
-- ### **[Emulator Lite (Patch & Install)]()**
+- ### **[Emulator Lite (Patch & Install)](https://github.com/KnD1368/Emulator_Lite/releases/download/Emulator_Lite/Emulator_Lite.zip)**
 </details>
 
